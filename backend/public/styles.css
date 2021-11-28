@@ -1,0 +1,43 @@
+.input-box {
+  padding: 10px;
+  width: 80%;
+  margin: 20px;
+}
+
+.header {
+  height: 12vh;
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center {
+  margin: auto;
+}
+
+.body {
+  width: 100%;
+  padding: 20;
+}
+
+.submit {
+  margin: 20px;
+}
+
+.main-metrics {
+  padding: 10px;
+  /* margin: 10px; */
+}
+
+#userId {
+  width: 80%;
+  margin: 10px;
+}
+
+#result {
+  margin: 20px;
+}
+tbody {
+  white-space: nowrap;
+}
