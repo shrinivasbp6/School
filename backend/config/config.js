@@ -9,8 +9,8 @@ module.exports = {
         dialect: "postgres",
     },
     "dev-shri": {
-        username: "root",
-        password: "root",
+        username: "postgres",
+        password: "12345",
         database: "school_dev",
         host: process.env.DB_HOST,
         dialect: "postgres",
